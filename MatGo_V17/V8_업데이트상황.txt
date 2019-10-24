@@ -1,0 +1,17 @@
+		★ V8 변경점 ★
+
+*sleep함수로 시간텀(필드에 겹쳐지게 그려야하나?)
+
+*countCard함수로 순수하게 패의 점수만 계산하고 countUserScore,countComScore로 피박적용하여 최종 점수 계산
+
+*countCard에서 UserGetCard,ComGetCard 의 index를 체크하여 고도리 홍단 청단 초단 계산
+
+*<int> list UserGetCard,ComGetCard선언 먹은 카드 고유인덱스 저장
+
+*예외처리 코드 추가
+
+*enum WHOWIN whoWin에 결과값 저장 -> 결과화면으로 넘기면 될듯
+
+*checkWin함수에서 현재 점수와 고를 관리해서 승부 체크해줌
+
+*setUserCardOnScorePanel에 리스트에 인덱스 저장하는 코드 추가

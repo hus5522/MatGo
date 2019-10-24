@@ -1,0 +1,4 @@
+* WhatooPlayform 생성자에 있던 총통 체크 로직을 checkChongtong 함수로 따로 만듦
+(delegate로 checkChongtong 함수를 사용)
+
+* 디자이너에 있는 card 점수 표시 삭제, 해당하는 코드 주석 처리

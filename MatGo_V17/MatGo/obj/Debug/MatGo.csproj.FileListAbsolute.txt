@@ -1,0 +1,217 @@
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\bin\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\bin\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.exe
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\bin\Debug\MatGo.exe
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\bin\Debug\MatGo.pdb
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\user\Desktop\MatGo_v2(마우스이벤트추가)\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\MatGo\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\bin\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\bin\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V5\MatGo_V5\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V6\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V7\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\bin\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\bin\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V7\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V8\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V9\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\bin\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\bin\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V9\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\bin\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\bin\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V10\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\bin\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\bin\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V11\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\bin\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\bin\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V12\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\bin\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\bin\Debug\MatGo.pdb
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.exe
+C:\Users\hp-pc\Desktop\MatGo_V13\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V14\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\bin\Debug\MatGo.exe
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\bin\Debug\MatGo.pdb
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\user\Desktop\2018-1\C#프로그래밍\팀플\MatGo_V15\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\bin\Debug\MatGo.exe.config
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\bin\Debug\MatGo.exe
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\bin\Debug\MatGo.pdb
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.csprojResolveAssemblyReference.cache
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.MatGoMain.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.Go_or_Stop.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.HowToform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.Properties.Resources.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.ScoreForm.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.WhatooPlayform.resources
+C:\Users\heoyouseong\Desktop\3학년1학기동안 한 것들\c#\프로젝트\version\MatGo_V17\MatGo\obj\Debug\MatGo.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+V10 수정
+
+*점수계산 오류수정 / 점수계산-winScore 이긴사람 whoWin 변수에 저장됨
+
+*점수 계산후 고스톱 해야하는경우 UserGoOrStop에서 System.Windows.Forms.DialogResult으로 고 스톱 여부 받아옴
+
+*인덱스로 홍단 청단 등 계산하는 if문에 이미지 번호 기준으로 들어가있어서 변경
+
+*끝난경우 WhatooPlay폼끄고 score폼으로 이동
+	-> 근데 자꾸 메세지박스가 2번씩 뜸... score폼도 꺼도 자꾸 켜져서 수정중
+
+*showGoImage / showStopImage 으로 고나 스탑시 이미지뜸
+

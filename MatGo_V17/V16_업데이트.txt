@@ -1,0 +1,14 @@
+
+* Whatooplayform의 cardsetting에 변수 추가          
+public int whoChongtong = 0; //유저 총통 시: 1, 컴퓨터 총통 시: 2 저장 
+
+* 총통 일 시
+
+scoreform에 누가 총통인지 알려주는 label 2개 추가
+점수는 50점으로
+
+* Scoreform 종료 버튼 누를 시 프로그램 강제 종료되도록 이벤트 추가
+        private void ScoreForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }

@@ -1,0 +1,62 @@
+1. 카드 당 가치값 구현 (완료)
+1) class Card의 public int value//카드의 가치 광=16, 십끗=8, 띠 = 4, 쌍피=2, 피=1
+2) 가치값 초기화
+3) 카드별 가치값 계산
+
+-------------------------------------------------------------------------------------------------------------------
+2. 클래스 배열 AllCard의 인덱스를 User, Computer, Field, CardDummy가 어떻게 나눴는지 알 수 있는 배열 4개 각각 구현
+            int[] UserCard = new int[10]; //0~9
+            int[] ComputerCard = new int[10]; //10~19
+            int[] FieldCard = new int[8]; //필드에 깔리는 수, 20~28
+            int[] CardDummy = new int[20]; //카드패, 29~48
+
+-------------------------------------------------------------------------------------------------------------------
+3. AllCard배열로 카드 먼저 선언 후, 랜덤하게 200번 섞어주는 것 구현
+
+-------------------------------------------------------------------------------------------------------------------
+4. PlayPanel에 랜덤하게 카드 8장깔기
+1) 카드 겹칠 때의 간격 변수 interval설정 //값은 -13
+
+2) 특정 month의 카드가 몇개 있는지 세는 변수
+            int month1_count = 0;
+            int month2_count = 0;
+            int month3_count = 0;
+            int month4_count = 0;
+            int month5_count = 0;
+            int month6_count = 0;
+            int month7_count = 0;
+            int month8_count = 0;
+            int month9_count = 0;
+            int month10_count = 0;
+            int month11_count = 0;
+            int month12_count = 0;
+    >>month 늘어날때마다 count +=1 씩 해주면 될듯. (카드 겹칠 때, month 기준으로 했음)
+//플레이패널에서 해당 month 없어지면 count도 -=1 해주세여...!
+
+3) 각 month별 카드의 기준이 되는 좌표값 (location)
+            int month1_x = 40, month1_y = 15;
+            int month2_x = 31, month2_y = 160;
+            int month3_x = 50, month3_y = 90;
+            int month4_x = 130, month4_y = 160;
+            int month5_x = 246, month5_y = 160;
+            int month6_x = 350, month6_y = 160;
+            int month7_x = 530, month7_y = 160;
+            int month8_x = 180, month8_y = 77;
+            int month9_x = 451, month9_y = 96;
+            int month10_x = 522, month10_y = 11;
+            int month11_x = 420, month11_y = 11;
+            int month12_x = 300, month12_y = 4;
+>> 이거는 최대한 안겹치게 한다고 했는데 겹쳐질수도 있음...
+맘에 안들면 값 수정해도 괜찮습니당!
+
+4) 현재 playpanel안에 있는 카드들의 month 정보
+            //현재 playpanel에 있는 카드 정보 저장 위한 배열 선언
+            int[] NowFieldCard = new int[20];
+            for (int i = 0; i < 20; i++) //초기화
+                NowFieldCard[i] = 0;
+            for (int y = 0; y < 8; y++)
+            {
+                NowFieldCard[y] = AllCard[FieldCard[y]].month;
+            }
+//month를 저장하긴 했는데, index를 저장하는게 좋을지 month저장이 좋을 지 잘 감이 안옴ㅠㅠㅠㅠㅠ 편할걸로 수정바람..
+----------------------------------------------------------------------------------------------------------------------

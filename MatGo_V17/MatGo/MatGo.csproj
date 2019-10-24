@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17F825DF-9F9D-4575-8A83-82580D4C3248}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MatGo</RootNamespace>
+    <AssemblyName>MatGo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Go_or_Stop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Go_or_Stop.Designer.cs">
+      <DependentUpon>Go_or_Stop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HowTo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HowTo.Designer.cs">
+      <DependentUpon>HowTo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScoreForm.Designer.cs">
+      <DependentUpon>ScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WhatooPlayform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WhatooPlayform.Designer.cs">
+      <DependentUpon>WhatooPlayform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Go_or_Stop.resx">
+      <DependentUpon>Go_or_Stop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HowTo.resx">
+      <DependentUpon>HowTo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScoreForm.resx">
+      <DependentUpon>ScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WhatooPlayform.resx">
+      <DependentUpon>WhatooPlayform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\StartPage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\StartBtn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\HowToBtn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\RulePage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\BackToTheStartPage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\BackToTheStartPage2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\main2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\HowToBtn2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\StartBtn2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\1go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\2go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\3go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\3gwang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\4go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\4gwang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\5.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\5go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\5gwang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\6.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\6go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\7.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\7go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\8.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\8go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\9.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\9go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\10.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\12.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\13.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\14.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\15.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\16.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\17.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\18.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\19.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\20.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\21.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\22.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\23.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\24.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\25.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\26.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\27.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\28.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\29.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\30.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\31.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\32.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\33.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\34.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\35.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\36.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\37.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\38.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\39.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\40.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\41.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\42.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\43.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\44.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\45.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\46.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\47.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\48.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\bbuk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\cardEffect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\chodan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\chungdan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\godori.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\hongdan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\mark_lose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\mark_win.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\CardImage\stop_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\user1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\user2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\computer1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mediafile\BackgroundImage\computer2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
